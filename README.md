@@ -1,5 +1,10 @@
 # docs
 - Technical design
-- Dashboard
+- Interactions
+  - APIs, CLI
+  - Integrations
+- Visuals: Dashboard
 - Test Automation
-- Use Cases
+- User Experiences
+  - Personalization
+  - Notifications
