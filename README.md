@@ -1,5 +1,5 @@
 # docs
-- Technical design
+- [Technical design](https://github.com/transtats/workflow-cli/blob/devel/DEVELOP.md)
 - Interactions
   - APIs, CLI
   - Integrations
